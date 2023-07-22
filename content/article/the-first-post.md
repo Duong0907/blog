@@ -6,11 +6,11 @@ tags: ["First", "Introduce"]
 categories: ["Introduce"]
 toc: true
 # summary: "Here goes my summary"
-images: ["blog/img/the-first-post/learning.jpg"]
+images: ["/blog/img/the-first-post/learning.jpg"]
 disqusShortname: 'Duong'
 ---
 
-![Learning](/img/the-first-post/learning.jpg)
+![Learning](/blog/img/the-first-post/learning.jpg)
 
 ## 1. Who am I?
 
