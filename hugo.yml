@@ -1,0 +1,26 @@
+baseURL: ""
+languageCode: en-us
+title: Duong's Blog
+theme: bilberry
+
+menu:
+  main:
+    - identifier: "categories"
+      url: "/categories/" 
+      weight: 20 
+
+  
+params:
+  algolia_search: true
+  showHeaderLanguageChooser: false
+  socialMediaLinks:
+    - link: "https://www.linkedin.com/in/thanh-duong-phan-9855a8245/"
+      icon: "fab fa-linkedin"
+    - link: "https://www.facebook.com/thanhduong.phan.524/"
+      icon: "fab fa-facebook"
+    - link: "https://www.youtube.com/channel/UCT2FRPo2iyb0Z4yNlL5fwPg"
+      icon: "fab fa-youtube"
+  customImage: "avatar.jpg"
+  showArchive: false
+  permanentTopNav: true
+  stickyNav: true
