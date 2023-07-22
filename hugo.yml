@@ -6,7 +6,7 @@ theme: bilberry
 menu:
   main:
     - identifier: "categories"
-      url: "/categories/" 
+      url: "/blog/categories/" 
       weight: 20 
 
   
