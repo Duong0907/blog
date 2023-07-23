@@ -5,7 +5,7 @@
 ---
 # Run locally
 1. Install [Hugo](https://gohugo.io/installation/)
-2. Clone this repositiry:
+2. Clone this repository:
 ```
 git clone --recursive https://github.com/Duong0907/blog.git
 cd blog
