@@ -1,12 +1,11 @@
 ---
-title: "The First Post"
+title: "Bài đầu tiên"
 date: 2023-07-22T07:45:26+07:00
 draft: false
 tags: ["First", "Introduce"]
 categories: ["Introduce"]
 toc: true
-# summary: "Here goes my summary"
-images: ["/blog/img/the-first-post/learning.jpg"]
+summary: "Chào các bạn. Mình là Dương, một sinh viên của Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM. Mình rất hứng thú với lập trình, máy tính, cũng như các hoạt động khác như chơi game, đá banh, ..."
 disqusShortname: 'Duong'
 ---
 
@@ -14,12 +13,14 @@ disqusShortname: 'Duong'
 
 ## 1. Who am I?
 
-Greetings to all. I'm Duong, a student at Vietnam National University's University of Information Technology. I am interested in learning programming as well as many other activities, including gaming, football,...    
+Chào các bạn. Mình là Dương, một sinh viên của Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM. Mình rất hứng thú với lập trình, máy tính, cũng như các hoạt động khác như chơi game, đá banh, ...
 
-I have a strong preference for backend development, which will be my primary area of employment.
+Đặc biệt trong lĩnh vực Công nghệ Thông tin, mình đặc biệt quan tâm về Backend Development, thứ sẽ trở thành chuyên ngành của mình trong tương lai.
 
 ## 2. What is this website?
 
-Every day, I'm going to learn something new. I made this website in an effort to better my writing abilities and to help me remember the information I learnt for a longer period of time.  
+Mỗi ngày, mình luôn tìm tòi, học hỏi những thứ mới mẻ. Cho nên, mình tạo ra Website này để ghi nhận lại những thứ mà mình đã học hỏi và trải nghiệm. Giúp cho mình củng cố và ghi nhớ kiến thức lâu hơn, cũng như cải thiện khả năng viết. 
 
-> So let's adhere to it.
+Ngoài ra, nơi này sẽ là nơi mình chia sẽ các kiến thức mà mình có với tất cả mọi người, và nếu có ý kiến đóng góp gì thì mọi người hãy liên hệ với mình nhé. Thông tin mình để ở mục ```About``` nhé.
+
+Chúc mọi người một ngày tốt lành! ✨✨✨

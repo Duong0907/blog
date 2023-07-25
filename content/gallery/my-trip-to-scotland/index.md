@@ -1,10 +1,11 @@
 ---
 title: "My Trip to Scotland"
 date: 2023-07-22T1:01:26+01:00
-
+draft: true
 categories: ['Travelling', 'Holidays']
 tags: ['Scotland', 'Glennfinnan Viaduct', 'Eilean Donan Castle']
 author: "Lednerb"
+summary: "In June 2017 I've visited Scotland with my best friend for two weeks. We drove a lot through the beautiful countryside and saw a lot of different animals: cattle, deer, birds, dolphins, and sheep. Sheep everywhere!"
 ---
 In June 2017 I've visited Scotland with my best friend for two weeks.
 We drove a lot through the beautiful countryside and saw a lot of different animals: cattle, deer, birds, dolphins, and sheep. Sheep everywhere!
