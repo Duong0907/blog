@@ -14,7 +14,7 @@ toc: true
 
 Như chúng ta đã biết, về mặt logic, SQL Server lưu các hàng dữ liệu dưới dạng bảng (table), nhưng về mặt vật lý, dữ liệu được chia thành các trang (data page), trong đó có chứa các hàng dữ liệu.
 
-Mỗi data page có kích thước cố định là 8KB, do đó kích thước của mỗi hàng là 8KB.
+Mỗi data page có kích thước cố định là 8KB, do đó kích thước tối đa của mỗi hàng là 8KB.
 
 Ngay khi chúng ta tạo một ràng buộc khóa chính, SQL Server sẽ tổ chức các data page dưới dạng cây (cụ thể là B-Tree). 
 
